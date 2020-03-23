@@ -1,0 +1,5 @@
+download url:
+http://files.grouplens.org/datasets/movielens/ml-1m.zip
+
+note:
+数据集包含6000多用户对4000多部电影的100万条评分

@@ -1,7 +1,7 @@
 # RecommendedSystemCallPackage
-关于调用一些python包实现推荐系统
+关于实现推荐系统所能调用到的一些python的包
 1.surprise
 2.LightFM
 3.mrec
 4.python-recsys
-5.sklearn
+5.sklearn.metrics
